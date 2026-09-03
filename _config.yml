@@ -627,3 +627,4 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 # The CV page is rendered from _data/cv.yml (see _pages/cv.md). The JSON Resume
 # integration is intentionally disabled.
+
