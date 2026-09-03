@@ -1,0 +1,17 @@
+# Local preview: builds from ./Dockerfile (Ruby 3.3). `docker compose up`
+# serves http://localhost:8080 with live reload.
+#
+# If your network intercepts TLS (e.g. a corporate firewall) and `bundle install`
+# fails with an SSL certificate error, create a docker-compose.override.yml that
+# mounts your CA bundle and points SSL_CERT_FILE at it — see README.
+services:
+  jekyll:
+    build: .
+    ports:
+      - 8080:8080
+      - 35729:35729
+    volumes:
+      - .:/srv/jekyll
+    environment:
+      - JEKYLL_ENV=development
+      - BUNDLE_PATH=/srv/jekyll/vendor/bundle

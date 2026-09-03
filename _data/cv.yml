@@ -1,0 +1,174 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Nourhan E. H. Abdelfattah, Ph.D.
+    - name: Position
+      value: Instructor, Houston Methodist Academic Institute; Research Associate, Houston Methodist Research Institute
+    - name: Location
+      value: Houston, TX, USA
+    - name: Email
+      value: neabdelfattah@gmail.com
+    - name: Links
+      value: <a href="https://scholar.google.com/citations?user=A_4Vj6gAAAAJ&hl=en">Google Scholar</a> &middot; <a href="https://orcid.org/0000-0002-0556-0977">ORCID</a> &middot; <a href="https://github.com/nourabdelfattah">GitHub</a> &middot; <a href="https://www.ncbi.nlm.nih.gov/myncbi/nourhan.abdelfattah.2/bibliography/public/">NCBI Bibliography</a>
+    - name: Research areas
+      value: Cancer immunology &middot; sex biology &middot; neuroimmunology &middot; single-cell &amp; spatial multi-omics &middot; open-source scientific software
+
+- title: Research Focus
+  type: list
+  contents:
+    - How <strong>biological sex</strong> shapes immune function, therapeutic response, and neuroimmune disease biology &mdash; at the intersection of cancer immunology, sex biology, and computational biology. I lead an integrated wet-lab and computational program combining mouse genetics, single-cell and spatial multi-omics, functional immunology, protein-interaction biology, and open-source software development.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D., Cancer Biology
+      institution: UT Health Science Center at San Antonio, San Antonio, TX
+      year: 2018
+    - title: Post-Baccalaureate, Chemistry
+      institution: Cairo University, Giza, Egypt
+      year: 2011
+    - title: B.Sc., Biotechnology
+      institution: Cairo University, Giza, Egypt &mdash; Excellent with Highest Honors, Top 1%
+      year: 2010
+
+- title: Postdoctoral Training
+  type: time_table
+  contents:
+    - title: Postdoctoral Fellow &mdash; Brain Cancer, Tumor Immunology, Single-Cell Genomics
+      institution: "Houston Methodist Research Institute, Houston, TX (Mentor: Kyuson Yun)"
+      year: 2018&ndash;2023
+    - title: Research Internships
+      institution: University of Windsor (2013) &middot; LMU Munich (2012) &middot; AGERI, Giza (2011) &middot; Medical Genetics Center, Cairo (2009)
+      year: 2009&ndash;2013
+
+- title: Academic &amp; Professional Appointments
+  type: time_table
+  contents:
+    - title: Instructor
+      institution: Houston Methodist Academic Institute, Houston, TX
+      year: 2024&ndash;Present
+    - title: Research Associate
+      institution: Houston Methodist Research Institute, Houston, TX
+      year: 2023&ndash;Present
+    - title: Independent Bioinformatics Consultant
+      institution: Remote &mdash; client-facing single-cell, Visium/HD spatial, and bulk RNA-seq workflows
+      year: 2024&ndash;Present
+    - title: Demonstrator / Teaching Assistant
+      institution: Faculty of Science, Cairo University, Giza, Egypt
+      year: 2011&ndash;2013
+
+- title: Software &amp; Tools Built
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/nourabdelfattah/scSidekick">scSidekick</a>
+      institution: Open-source R package for reproducible single-cell &amp; spatial transcriptomics analysis &mdash; automated reporting, methods text, legends, PowerPoint exports; CellChat, inferCNV, cNMF, pseudotime, pseudobulk, ssGSEA, survival correlation. Submitted to <em>Bioinformatics</em>.
+      year: 2025
+    - title: <a href="https://github.com/nourabdelfattah/RNAseqWizard">RNAseqWizard</a>
+      institution: Shiny app for interactive bulk RNA-seq QC, differential expression, visualization, and pathway analysis.
+      year: 2024
+    - title: <a href="https://nourabdelfattah.github.io/ScrubPDF/">ScrubPDF</a>
+      institution: Browser-based, fully client-side PDF utility.
+      year: 2025
+    - title: MatchLR
+      institution: R framework (in development) for orphan ligand&ndash;receptor prediction &mdash; interactome, scRNA-seq, and surfaceome evidence fused with an XGBoost binding-probability ensemble, Pfam domain compatibility, CellChat, and AlphaFold via reciprocal rank fusion.
+      year: 2025
+    - title: Lumos
+      institution: Cross-platform desktop app for interactive figure building for non-bioinformaticians (internal release).
+      year: 2025
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Omics &amp; Analysis
+      items:
+        - sc/snRNA-seq &middot; spatial transcriptomics &middot; single-cell multiome &middot; bulk RNA-seq &middot; ChIP-seq &middot; scATAC-seq
+        - Proteomics integration &middot; long-read (PacBio) &middot; TCR/BCR-seq &middot; pseudobulk &middot; meta-analysis
+    - title: Perturbation Biology
+      items:
+        - High-throughput functional screens &middot; Cas9 KO &middot; LNP-delivered CRISPR &middot; CRISPR off-target analysis
+        - miRNA perturbation &middot; nanoparticle synthesis &middot; intracranial injection
+    - title: AI &amp; Agentic Tools
+      items:
+        - Agentic workflow design &middot; generative-AI prompt engineering &middot; AI-augmented pipeline automation
+        - LLM-assisted R/Python/Bash development &middot; pipeline debugging &middot; documentation generation &middot; reproducible workflow automation
+    - title: Programming
+      items:
+        - R (expert) &middot; Python &middot; JavaScript/HTML &middot; Bash &middot; shell scripting &middot; HPC/SLURM
+    - title: Experimental &amp; In Vivo Biology
+      items:
+        - Intracranial surgery &middot; flow cytometry &middot; single-cell library prep &middot; confocal microscopy &middot; ELISA
+        - Animal modeling &middot; tissue processing &middot; nanoparticle synthesis &middot; LNP delivery
+    - title: Communication
+      items:
+        - First-author publications in <em>Cancer Cell</em> &amp; <em>Nature Communications</em> &middot; international conference presenter
+        - Clinical stakeholder communication &middot; scientific visualization &middot; workshop instructor
+
+- title: Honors, Fellowships &amp; Competitive Awards
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Presidential Award, Excellence in Peer-Reviewed Publication &mdash; Houston Methodist Academic Institute
+    - year: 2025
+      items:
+        - Presidential Award, Excellence in Peer-Reviewed Publication &mdash; Houston Methodist Academic Institute
+    - year: 2023
+      items:
+        - SITC Women in Cancer Immunotherapy Network Leadership Program
+    - year: 2021
+      items:
+        - Outstanding Grant Recipient Award &mdash; Houston Methodist Office of Graduate Studies and Trainee Affairs
+    - year: 2020&ndash;2023
+      items:
+        - Horizon Award (PI) &mdash; Department of Defense Peer Reviewed Cancer Research Program
+    - year: 2019
+      items:
+        - Barbara H. Bowman Graduate Student of the Year Award
+    - year: 2016&ndash;2018
+      items:
+        - Schlumberger Foundation Faculty for the Future Predoctoral Fellowship
+    - year: 2014&ndash;2016
+      items:
+        - Greehey Graduate Fellowship in Children&rsquo;s Health
+    - year: 2012
+      items:
+        - Nano-systems Initiative Munich Student Research Award
+        - Partnership and Ownership Initiative Scholarship, Egyptian Ministry of Higher Education
+
+- title: Research Support
+  type: time_table
+  contents:
+    - title: NCI K22 (1K22CA307633-01A1) &mdash; PI (pending)
+      institution: Sex-specific differences in the Yap1&ndash;Cd276 axis in medulloblastoma immune suppression
+      year: 2026&ndash;2029
+    - title: DOD Horizon Award CA191052 &mdash; PI
+      institution: Yap1 function in sex-biased medulloblastoma tumorigenesis, progression, and protumor immunity
+      year: 2020&ndash;2023
+    - title: Schlumberger Foundation Faculty for the Future Fellowship &mdash; PI
+      institution: MicroRNAs as therapeutic adjuvants to treat pediatric medulloblastoma
+      year: 2016&ndash;2018
+    - title: Greehey Graduate Fellowship in Children&rsquo;s Health &mdash; PI
+      institution: MicroRNAs as therapeutic adjuvants to treat pediatric medulloblastoma
+      year: 2014&ndash;2016
+
+- title: Service to the Profession
+  type: list
+  contents:
+    - <u>Peer reviewer</u> for <em>Nature Communications</em>, <em>Cancer Research</em>, <em>Clinical Cancer Research</em>, <em>npj Precision Oncology</em>, <em>Molecular Cancer Research</em>, <em>Molecular Cancer Therapeutics</em>, <em>Cancer Research Communications</em>, <em>Neuro-Oncology Advances</em>, and <em>Scientific Reports</em> (2021&ndash;present).
+
+- title: Teaching &amp; Mentoring
+  type: time_table
+  contents:
+    - title: Instructor &amp; curriculum developer &mdash; faculty and trainee development workshops
+      institution: Houston Methodist Research Institute (e.g. Creating a Research Poster; Statistics for Biologists)
+      year: 2020&ndash;2026
+    - title: Teaching Assistant &mdash; graduate biomedical science courses
+      institution: UT Health San Antonio (Molecular Biology; Cancer Biology Core; Methods in Cell Biology)
+      year: 2015&ndash;2018
+    - title: Instructor &mdash; molecular biology &amp; bioinformatics workshops
+      institution: LabLog Scientific Training &amp; Development / Medical Genetics Center, Cairo University
+      year: 2011&ndash;2013
+    - title: Mentoring
+      institution: Mentored 15+ graduate students, postdoctoral fellows, and research staff in single-cell/spatial analysis, experimental design, scientific visualization, and reproducible computational workflows, with a teach-to-independence model.
+      year: 2018&ndash;Present
