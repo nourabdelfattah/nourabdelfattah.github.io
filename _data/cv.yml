@@ -17,7 +17,7 @@
 - title: Research Focus
   type: list
   contents:
-    - How <strong>biological sex</strong> shapes immune function, therapeutic response, and neuroimmune disease biology &mdash; at the intersection of cancer immunology, sex biology, and computational biology. I lead an integrated wet-lab and computational program combining mouse genetics, single-cell and spatial multi-omics, functional immunology, protein-interaction biology, and open-source software development.
+    - How <strong>biological sex</strong> shapes immune function, therapeutic response, and neuroimmune disease biology &mdash; at the intersection of cancer immunology, sex biology, and computational biology. My research adopts an integrated wet-lab and computational program combining mouse genetics, single-cell and spatial multi-omics, functional immunology, protein-interaction biology, and open-source software development.
 
 - title: Education
   type: time_table
@@ -51,8 +51,8 @@
     - title: Research Associate
       institution: Houston Methodist Research Institute, Houston, TX
       year: 2023&ndash;Present
-    - title: Independent Bioinformatics Consultant
-      institution: Remote &mdash; client-facing single-cell, Visium/HD spatial, and bulk RNA-seq workflows
+    - title: Independent Bioinformatician
+      institution: Remote &mdash; single-cell, Visium/HD spatial, and bulk RNA-seq workflows
       year: 2024&ndash;Present
     - title: Demonstrator / Teaching Assistant
       institution: Faculty of Science, Cairo University, Giza, Egypt
